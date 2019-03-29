@@ -1,0 +1,12 @@
+- title: "Home"
+  href: "/"
+
+- title: "Get Started"
+  href: "/getstarted/"
+
+- title: "Reference"
+  subcategories:
+    - subtitle: "FAQ"
+      subhref: "/reference/faq.html"
+    - subtitle: "Terminology"
+      subhref: "/reference/terminology.html"
